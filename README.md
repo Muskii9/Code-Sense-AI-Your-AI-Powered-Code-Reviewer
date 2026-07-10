@@ -149,4 +149,5 @@ This project is licensed under the MIT License.
 ## Project Background
 
 This project was developed as a **team project (4 members)** for ["our Btech mini project"]
+
 **My contribution:** [ owns presentation angle ,JWT authentication flow , API structure(FatAPI backend)]
